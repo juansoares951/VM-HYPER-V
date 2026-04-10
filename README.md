@@ -25,7 +25,7 @@ Defina um nome para a VM
 ![5Nome_da_maquina](https://github.com/user-attachments/assets/2021dd3e-abd7-4da5-98ba-1248ab9bb70a)
 
 6. Escolher a geração
-Geração 1: sistemas mais antigos
+Geração 1: sistemas mais antigos | 
 Geração 2: sistemas mais recentes (recomendado para Ubuntu moderno)
 
 ![6Escolha_geracao](https://github.com/user-attachments/assets/eb282319-a3a4-42e0-aa0d-0368201d6d1a)
