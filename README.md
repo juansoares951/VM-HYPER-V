@@ -53,9 +53,9 @@ Clique em Concluir
 
 12. Localizar a máquina virtual, 
 A VM aparecerá na aba Rede do Explorador de Arquivos
+
+
 ![12VM_aba_rede](https://github.com/user-attachments/assets/1b28d15a-b18f-4239-8a3c-511d2af55936)
-
-
 
 13. Iniciar a máquina virtual, 
 No Hyper-V, selecione a VM e clique em Iniciar
