@@ -27,7 +27,7 @@ Defina um nome para a VM
 6. Escolher a geração
 Geração 1: sistemas mais antigos
 Geração 2: sistemas mais recentes (recomendado para Ubuntu moderno)
-Não é possível alterar depois
+
 ![6Escolha_geracao](https://github.com/user-attachments/assets/eb282319-a3a4-42e0-aa0d-0368201d6d1a)
 
 
