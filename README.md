@@ -25,8 +25,7 @@ Defina um nome para a VM
 
 6. Escolher a geração
 Geração 1: sistemas mais antigos
-Geração 2: sistemas mais recentes (recomendado para Ubuntu moderno)
-⚠️ Não é possível alterar depois
+Geração 2: sistemas mais recentes (recomendado para Ubuntu moderno) Não é possível alterar depois
 ![6Escolha_geracao](https://github.com/user-attachments/assets/fb272e93-0e67-4bdb-880e-245cb3c00476)
 
 7. Definir memória RAM
