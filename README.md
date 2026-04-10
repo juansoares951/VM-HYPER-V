@@ -1,7 +1,8 @@
 # VM-HYPER-V
 Instalação de uma maquina vitural ubunto no HYPER-V
 
-🖥️ Criando uma Máquina Virtual no Hyper-V (Ubuntu)
+Criando uma Máquina Virtual no Hyper-V (Ubuntu)
+ 
 1. Ativar o Hyper-V no Windows
 Na barra de pesquisa, digite: “Ativar ou desativar recursos do Windows”
 Marque a opção Hyper-V
@@ -24,39 +25,41 @@ Defina um nome para a VM
 ![5Nome_da_maquina](https://github.com/user-attachments/assets/2021dd3e-abd7-4da5-98ba-1248ab9bb70a)
 
 6. Escolher a geração
-![6Escolha_geracao](https://github.com/user-attachments/assets/fb272e93-0e67-4bdb-880e-245cb3c00476)
 Geração 1: sistemas mais antigos
-Geração 2: sistemas mais recentes (recomendado para Ubuntu moderno) Não é possível alterar depois
+Geração 2: sistemas mais recentes (recomendado para Ubuntu moderno)
+Não é possível alterar depois
+![6Escolha_geracao](https://github.com/user-attachments/assets/eb282319-a3a4-42e0-aa0d-0368201d6d1a)
 
-8. Definir memória RAM
+
+7. Definir memória RAM
 Escolha a quantidade de RAM para a VM
 ![7Tamanho_Memoria](https://github.com/user-attachments/assets/204a1f74-4458-449c-9604-c32db3346149)
 
-9. Configurar rede
+8. Configurar rede
 Selecione Default Switch para acesso à internet
 <img width="701" height="524" alt="8Conexao_default_switch" src="https://github.com/user-attachments/assets/aa71abe2-8624-41a5-95bc-64ec85004ca0" />
 
-10. Definir disco rígido virtual
+9. Definir disco rígido virtual
 Escolha o tamanho do disco da VM
 <img width="704" height="524" alt="9 Tamanho_disco" src="https://github.com/user-attachments/assets/2e54e629-7e7f-49a0-a83d-4b102d0ed1d5" />
 
-11. Selecionar a ISO
+10. Selecionar a ISO
 Aponte o caminho da ISO baixada
 ![10Aponte_a_ISO](https://github.com/user-attachments/assets/53e6d184-1271-4bf8-beb8-b71781ce9609)
 
-12. Finalizar criação
+11. Finalizar criação
 Clique em Concluir
 ![11Concluir_instalar](https://github.com/user-attachments/assets/05037558-d12d-454a-8967-455cdb9ce539)
 
-13. Localizar a máquina virtual
+12. Localizar a máquina virtual
 A VM aparecerá na aba Rede do Explorador de Arquivos
 ![12VM_aba_rede](https://github.com/user-attachments/assets/1b28d15a-b18f-4239-8a3c-511d2af55936)
 
-14. Iniciar a máquina virtual
+13. Iniciar a máquina virtual
 No Hyper-V, selecione a VM e clique em Iniciar
 ![13Botao_iniciar](https://github.com/user-attachments/assets/7edefe97-387e-44a3-8ddf-1746a4a95e69)
 
-15. Utilizar a VM
+14. Utilizar a VM
 Após inicializar e instalar o sistema, a máquina estará pronta para uso
 ![14ubuntu_iniciando](https://github.com/user-attachments/assets/fcfef5d9-9da8-4bec-b08f-e97a0b038a58)
 
